@@ -29,7 +29,7 @@ This C++ program demonstrates a real-world **Restaurant Billing Management Syste
 ## Files
 
 * `Restaurant_Constructors.cpp` - Main C++ source code
-* `Source_Code.cpp` - Duplicate source code file for submission
+* `Output` – Program execution output of the Restaurant Billing Management System
 * `Sample_Input_Output.txt` - Complete sample input and actual output
 * `README.md` - Project documentation
 

@@ -1,0 +1,35 @@
+===== RESTAURANT BILLING MANAGEMENT SYSTEM =====
+
+Default Constructor Called!
+
+----- RESTAURANT BILL DETAILS -----
+Customer Name : Not Assigned
+Order Number  : 0
+Total Bill    : Rs. 0
+
+Parameterized Constructor Called!
+
+----- RESTAURANT BILL DETAILS -----
+Customer Name : Jidnya
+Order Number  : 101
+Total Bill    : Rs. 500
+
+Adding Rs. 200 to the bill...
+Amount Added Successfully!
+
+Removing Rs. 100 from the bill...
+Amount Removed Successfully!
+
+----- RESTAURANT BILL DETAILS -----
+Customer Name : Jidnya
+Order Number  : 101
+Total Bill    : Rs. 600
+
+Creating Copy of Order...
+
+Copy Constructor Called!
+
+----- RESTAURANT BILL DETAILS -----
+Customer Name : Jidnya
+Order Number  : 101
+Total Bill    : Rs. 600
